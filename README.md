@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinfuchiang, a CS graduate student.
 - 👀 I’m interested in learning, reading and coding.
-- 🌱 I’m currently learning Web security, OS.
+- 🌱 I’m currently learning distributed system, OS.
 - 📫 How to reach me: [Email](mailto:1837897873@qq.com)
 <!--- 💞️ I’m looking to collaborate on ...--->
 <!---
