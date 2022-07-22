@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinfuchiang, a CS graduate student.
 - 👀 I’m interested in learning, reading and coding.
-- 🌱 I’m currently learning HPC.
-- 📫 How to reach me: [Email](mailto:1837897873@qq.com)
+- 🌱 I’m hunting for a job.
+- 📫 How to reach me: [Email](mailto:MTgzNzg5Nzg3M0BxcS5jb20=)
 <!--- 💞️ I’m looking to collaborate on ...--->
 
 <div>
