@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jinfuchiang, a CS graduate student.
 - 👀 I’m interested in learning, reading and coding.
-- 🌱 I’m hunting for a job.
-- 📫 How to reach me: [Email](mailto:MTgzNzg5Nzg3M0BxcS5jb20=)
 <!--- 💞️ I’m looking to collaborate on ...--->
 
 <div>
