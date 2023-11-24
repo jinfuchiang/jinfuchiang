@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jinfuchiang, a CS graduate student.
-- 👀 I’m interested in learning, reading and coding.
+- 👋 
+- 👀 
 <!--- 💞️ I’m looking to collaborate on ...--->
 
 <!---
